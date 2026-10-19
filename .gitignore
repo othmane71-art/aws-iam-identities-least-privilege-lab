@@ -1,0 +1,7 @@
+.env
+*.pem
+*.key
+.aws/
+credentials
+*.token
+*seed*.txt
